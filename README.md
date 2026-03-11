@@ -152,17 +152,6 @@ poetry run python main.py
 poetry run pytest tests/ -v
 ```
 
-## Project Statistics
-
-| Lab | Topic | Files | Lines of Code | Classes | Functions | Tests |
-|-----|-------|-------|---------------|---------|-----------|-------|
-| Lab 1 | Student Management | 12+ | 800+ | 8+ | 40+ | 10+ |
-| Lab 2 | Employee Payroll | 12+ | 900+ | 9+ | 45+ | 12+ |
-| Lab 3 | Library Inventory | 13+ | 1000+ | 10+ | 55+ | 15+ |
-| Lab 4 | Vehicle Rental | 15+ | 700+ | 10+ | 50+ | 10+ |
-| Lab 5 | Personal Finance | 14+ | 1500+ | 12+ | 80+ | 30+ |
-| **Total** | **5 Labs** | **66+** | **4900+** | **49+** | **270+** | **77+** |
-
 ## Project Structure
 
 Each lab follows a consistent structure:
@@ -199,7 +188,6 @@ poetry run pytest tests/ --cov=src --cov-report=html
 
 Each lab includes:
 - **README.md** - User guide and features
-- **IMPLEMENTATION_GUIDE.md** - Requirements checklist (Labs 4 & 5)
 - **Code comments** - Inline documentation
 - **Type hints** - Function signatures
 - **Docstrings** - Class and method documentation
