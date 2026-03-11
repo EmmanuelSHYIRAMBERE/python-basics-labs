@@ -2,10 +2,10 @@
 
 A comprehensive collection of Python programming labs demonstrating Object-Oriented Programming (OOP), data structures, file I/O, and software design principles.
 
-## 📚 Labs Overview
+## Labs Overview
 
 ### Lab 1: Student Course Management System
-**Status:** ✅ Complete  
+**Status:** Complete  
 **Topics:** OOP Fundamentals, Classes, Inheritance, File I/O
 
 A console-based application for managing students, courses, and enrollments in an educational institution.
@@ -23,7 +23,7 @@ A console-based application for managing students, courses, and enrollments in a
 ---
 
 ### Lab 2: Employee Payroll Tracker
-**Status:** ✅ Complete  
+**Status:** Complete  
 **Topics:** Inheritance, Polymorphism, Property Decorators, Modular Functions
 
 A comprehensive payroll management system for computing pay slips across multiple employee categories.
@@ -42,7 +42,7 @@ A comprehensive payroll management system for computing pay slips across multipl
 ---
 
 ### Lab 3: Library Inventory Application
-**Status:** ✅ Complete  
+**Status:** Complete  
 **Topics:** Abstract Base Classes, File I/O, List Comprehensions, JSON Persistence
 
 A library management system for tracking books, eBooks, audiobooks, and borrowers.
@@ -61,7 +61,7 @@ A library management system for tracking books, eBooks, audiobooks, and borrower
 ---
 
 ### Lab 4: Vehicle Rental System
-**Status:** ✅ Complete  
+**Status:** Complete  
 **Topics:** Inheritance, Polymorphism, Abstract Base Classes, Property Decorators
 
 A vehicle rental management system supporting cars, trucks, and bikes with dynamic pricing.
@@ -80,7 +80,7 @@ A vehicle rental management system supporting cars, trucks, and bikes with dynam
 ---
 
 ### Lab 5: Personal Finance Tracker
-**Status:** ✅ Complete  
+**Status:** Complete  
 **Topics:** Operator Overloading, Property Decorators, JSON Storage, Exception Handling
 
 A personal finance management application for tracking accounts, transactions, and savings goals.
@@ -99,34 +99,34 @@ A personal finance management application for tracking accounts, transactions, a
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 ### Core Python Concepts
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Inheritance and Polymorphism
-- ✅ Abstract Base Classes (ABC)
-- ✅ Property Decorators
-- ✅ Operator Overloading
-- ✅ Exception Handling
-- ✅ File I/O and JSON Storage
-- ✅ List Comprehensions
+- Object-Oriented Programming (OOP)
+- Inheritance and Polymorphism
+- Abstract Base Classes (ABC)
+- Property Decorators
+- Operator Overloading
+- Exception Handling
+- File I/O and JSON Storage
+- List Comprehensions
 
 ### Software Design Principles
-- ✅ Encapsulation
-- ✅ Abstraction
-- ✅ Modular Architecture
-- ✅ Separation of Concerns
-- ✅ DRY (Don't Repeat Yourself)
-- ✅ Type Hints and Documentation
+- Encapsulation
+- Abstraction
+- Modular Architecture
+- Separation of Concerns
+- DRY (Don't Repeat Yourself)
+- Type Hints and Documentation
 
 ### Data Structures & Algorithms
-- ✅ Lists, Dictionaries, Sets
-- ✅ List Comprehensions
-- ✅ Generator Expressions
-- ✅ Sorting and Filtering
-- ✅ Aggregations and Statistics
+- Lists, Dictionaries, Sets
+- List Comprehensions
+- Generator Expressions
+- Sorting and Filtering
+- Aggregations and Statistics
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -152,7 +152,7 @@ poetry run python main.py
 poetry run pytest tests/ -v
 ```
 
-## 📊 Project Statistics
+## Project Statistics
 
 | Lab | Topic | Files | Lines of Code | Classes | Functions | Tests |
 |-----|-------|-------|---------------|---------|-----------|-------|
@@ -163,7 +163,7 @@ poetry run pytest tests/ -v
 | Lab 5 | Personal Finance | 14+ | 1500+ | 12+ | 80+ | 30+ |
 | **Total** | **5 Labs** | **66+** | **4900+** | **49+** | **270+** | **77+** |
 
-## 🏗️ Project Structure
+## Project Structure
 
 Each lab follows a consistent structure:
 
@@ -182,7 +182,7 @@ lab-name/
 └── README.md           # Lab-specific documentation
 ```
 
-## 🧪 Testing
+## Testing
 
 All labs include comprehensive unit tests:
 
@@ -195,7 +195,7 @@ poetry run pytest tests/ -v
 poetry run pytest tests/ --cov=src --cov-report=html
 ```
 
-## 📖 Documentation
+## Documentation
 
 Each lab includes:
 - **README.md** - User guide and features
@@ -204,17 +204,17 @@ Each lab includes:
 - **Type hints** - Function signatures
 - **Docstrings** - Class and method documentation
 
-## 🎨 Code Quality
+## Code Quality
 
 All projects follow:
-- ✅ PEP 8 style guidelines
-- ✅ Type hints throughout
-- ✅ Comprehensive error handling
-- ✅ Input validation
-- ✅ Modular design
-- ✅ DRY principles
+- PEP 8 style guidelines
+- Type hints throughout
+- Comprehensive error handling
+- Input validation
+- Modular design
+- DRY principles
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **Python 3.10+** - Core language
 - **Poetry** - Dependency management
@@ -226,7 +226,7 @@ All projects follow:
 - **datetime** - Date/time handling
 - **typing** - Type hints
 
-## 📚 Key Concepts by Lab
+## Key Concepts by Lab
 
 ### Lab 1: Student Course Management
 - Class hierarchies
@@ -264,7 +264,7 @@ All projects follow:
 - Exception handling
 - Numeric operations
 
-## 🎓 Educational Value
+## Educational Value
 
 These labs are designed to teach:
 
@@ -292,7 +292,7 @@ These labs are designed to teach:
    - Rental management
    - Financial tracking
 
-## 🎯 Lab Progression
+## Lab Progression
 
 The labs are designed to build upon each other:
 
@@ -302,7 +302,7 @@ The labs are designed to build upon each other:
 4. **Lab 4** - Advanced OOP with polymorphism
 5. **Lab 5** - Operator overloading and exception handling
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please:
 1. Fork the repository
@@ -311,35 +311,35 @@ Contributions are welcome! Please:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📝 License
+## License
 
 This project is available for educational purposes.
 
-## 👤 Author
+## Author
 
 **EmmanuelSHYIRAMBERE**
 - Email: emashyirambere1@gmail.com
 - GitHub: [@EmmanuelSHYIRAMBERE](https://github.com/EmmanuelSHYIRAMBERE)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Python Software Foundation
 - Poetry team
 - Open source community
 
-## 📞 Support
+## Support
 
 For questions or issues:
 - Open an issue on the respective lab repository
 - Email: emashyirambere1@gmail.com
 
-## 🎬 Video Tutorials
+## Video Tutorials
 
 - **Lab 1:** [Student Course Management System](https://drive.google.com/file/d/1T50mvaxqoquzWzEt3D2s8PbHTAXkm5rx/view?usp=sharing)
 
 ---
 
-## 📋 Quick Links
+## Quick Links
 
 | Lab | Repository | Documentation |
 |-----|-----------|---------------|
@@ -351,6 +351,5 @@ For questions or issues:
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding!**
 
-*Last Updated: March 2024*
